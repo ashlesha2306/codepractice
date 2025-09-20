@@ -1,2 +1,13 @@
 # codepractice
-My semester notes,reference PDFs,and practice codes.
+# Codes 💻
+This folder contains my practice codes in different programming languages.
+
+## 📂 Languages
+- *c/* → Basics of C (calculator, arrays, simple programs)
+- *cpp/* → Object-Oriented Programming examples
+- *python/* → Statistical & data-related scripts
+
+## 🎯 Purpose
+- To practice programming fundamentals
+- To prepare for exams and projects
+- To build a foundation for Data Science & Cybersecurity
