@@ -1,24 +1,8 @@
-college-resources/
-│
-├── notes/
-│   ├── semester1/
-│   │   ├── maths.pdf
-│   │   ├── physics.pdf
-│   └── semester2/
-│       ├── chemistry.pdf
-│       └── cs.pdf
-│
-├── codes/
-│   ├── c/
-│   │   ├── calculator.c
-│   │   └── array.c
-│   ├── cpp/
-│   │   └── oops.cpp
-│   └── python/
-│       └── stats.py
-│
-├── random-pdfs/
-│   ├── resume-sample.pdf
-│   └── ebook.pdf
-│
-└── README.md
+# Random PDFs 📑
+
+This folder contains miscellaneous PDFs like:
+- Resume samples
+- Ebooks
+- Reference documents
+
+These are not directly related to coursework but may be useful.
