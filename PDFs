@@ -1,0 +1,24 @@
+college-resources/
+│
+├── notes/
+│   ├── semester1/
+│   │   ├── maths.pdf
+│   │   ├── physics.pdf
+│   └── semester2/
+│       ├── chemistry.pdf
+│       └── cs.pdf
+│
+├── codes/
+│   ├── c/
+│   │   ├── calculator.c
+│   │   └── array.c
+│   ├── cpp/
+│   │   └── oops.cpp
+│   └── python/
+│       └── stats.py
+│
+├── random-pdfs/
+│   ├── resume-sample.pdf
+│   └── ebook.pdf
+│
+└── README.md
